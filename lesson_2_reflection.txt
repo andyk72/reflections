@@ -20,3 +20,7 @@ When starting more then one new logical function at the same time.
 How do the diagrams help you visualize the branch structure?
 
 They show visually show the branches and their relationships.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result is a new commit on the currently checkout branch, which contains all the commits from both branches.
